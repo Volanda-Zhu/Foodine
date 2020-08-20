@@ -1,6 +1,7 @@
 # Foodine
 ![image](https://github.com/Volanda-Zhu/Foodine/blob/master/website.jpg)
-project objective: To provide the customer the most authentic eating experience based on their appetite.
+
+Project objective: To provide the customer the most authentic eating experience based on their appetite.
 
 Instructions:
 1.	Install all the packages mentioned below.
