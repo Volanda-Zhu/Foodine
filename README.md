@@ -1,5 +1,5 @@
 # Foodine
-![image](https://github.com/Volanda-Zhu/Foodine/blob/master/website.jpg)
+![image](https://github.com/Volanda-Zhu/Foodine/blob/master/website_screenshot.jpg)
 
 Project objective: To provide the customer the most authentic eating experience based on their appetite.
 
